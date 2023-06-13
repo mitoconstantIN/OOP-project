@@ -1,0 +1,11 @@
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\bin\Debug\ProiectOOP.exe.config
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\bin\Debug\ProiectOOP.exe
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\bin\Debug\ProiectOOP.pdb
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.csproj.AssemblyReference.cache
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.csproj.SuggestedBindingRedirects.cache
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.Form1.resources
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.Properties.Resources.resources
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.csproj.GenerateResource.cache
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.csproj.CoreCompileInputs.cache
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.exe
+K:\Facultate\OOP sem III\ProiectOOP\ProiectOOP\obj\Debug\ProiectOOP.pdb
